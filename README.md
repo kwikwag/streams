@@ -22,13 +22,18 @@ in support for many streaming sources (youtube, etc)
 
 #### Israel
 
- - 88FM - http://iba-s.vidnt.com/iba_radio-88fmMRepeat/_definst_/smil:radio-88fmM.smil/playlist.m3u8
+ - 88FM - http://radiocast-rr-d.vidnt.com/ipbc_IPBC88LAM
  - 106FM - http://106fm.livecdn.biz:7075/
  - [KZradio](http://kzradio.net) - http://s2.kzradio.net/live/mp3/icecast.audio
  - Galgalatz - http://glzwizzlv.bynetcdn.com/glglz_mp3
- - Reshet Gimmel - http://radiocast-rr-d.vidnt.com/ipbc_IPBCgimmelLAM
+ - Gimmel - http://radiocast-rr-d.vidnt.com/ipbc_IPBCgimmelLAM
+ - Bet - http://radiocast-rr-d.vidnt.com/ipbc_IPBCbetLAM
+ - Kol Ha-Musica - http://radiocast-rr-d.vidnt.com/ipbc_IPBCkolhamusicaLAM
+ - Moreshet - http://radiocast-rr-d.vidnt.com/ipbc_IPBCmoreshetLAM
+ - Tarbut - http://radiocast-rr-d.vidnt.com/ipbc_IPBCtarbutLAM
+ - Reka - http://radiocast-rr-d.vidnt.com/ipbc_IPBCrekaLAM
+ - Ma-Kan - http://radiocast-rr-d.vidnt.com/ipbc_IPBCmakanradioLAM
  
-
 #### US
 
  - KEXP - http://live-aacplus-64.kexp.org/kexp64.aac
